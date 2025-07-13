@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-python-181717?logo=python&logoColor=FFE873&style=for-the-badge" />
 </div>
 
-## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/pc.gif" width=30px />
+## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/computer.gif" width=30px />
 
 <div align="center">
     <a href="https://github.com/zaikkoo" target="_blank"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge"></a>
