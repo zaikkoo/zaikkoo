@@ -8,13 +8,16 @@
 
 • I’m currently learning about HMTL, CSS ans JavaScript.
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=D5DBE0#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=D5DBE0#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3406d38-308b-40d3-902f-b83c2e0509c4" width=35px />
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-css-1572B5?logo=css&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-python-4A4D4F?logo=python&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-html-181717?logo=html5&logoColor=E34F26&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-css-181717?logo=css&logoColor=1572B5&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/-python-181717?logo=python&logoColor=FFE873&style=for-the-badge" />
 </div>
 
 ## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/e32abccf-cbbf-4ba9-a13d-ef92594026ed" width=30px />
@@ -22,9 +25,9 @@
 <div align="center">
     <a href="https://github.com/zaikkoo" target="_blank"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge"></a>
     <a href="mailto:arthursilvaferc@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-gmail-C72424?logo=gmail&logoColor=white&style=for-the-badge"></a>
-    <a href="https://www.instagram.com/imarthurzk?igsh=MWI1dTFkcGlzZzlucA==" target="_blank"><img src="https://img.shields.io/badge/-instagram-D9367D?logo=instagram&logoColor=white&style=for-the-badge"></a>
-    <a href="https://x.com/oZaikko_" target="_blank"><img src="https://img.shields.io/badge/-x-000000?logo=x&logoColor=white&style=for-the-badge"></a>
-    <a href="https://youtube.com/@zaikko01?si=VUBp190VeaM-_ML7" target="_blank"><img src="https://img.shields.io/badge/-youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
-    <a href="https://steamcommunity.com/id/zaikko44/" target="_blank"><img src="https://img.shields.io/badge/-steam-2A475E?logo=steam&logoColor=white&style=for-the-badge"></a>
+<img src="https://img.shields.io/badge/-gmail-181717?logo=gmail&logoColor=DE4D40&style=for-the-badge"></a>
+    <a href="https://www.instagram.com/imarthurzk?igsh=MWI1dTFkcGlzZzlucA==" target="_blank"><img src="https://img.shields.io/badge/-instagram-181717?logo=instagram&logoColor=DD2A7B&style=for-the-badge"></a>
+    <a href="https://x.com/oZaikko_" target="_blank"><img src="https://img.shields.io/badge/-x-181717?logo=x&logoColor=white&style=for-the-badge"></a>
+    <a href="https://youtube.com/@zaikko01?si=VUBp190VeaM-_ML7" target="_blank"><img src="https://img.shields.io/badge/-youtube-181717?logo=youtube&logoColor=C72424&style=for-the-badge"></a>
+    <a href="https://steamcommunity.com/id/zaikko44/" target="_blank"><img src="https://img.shields.io/badge/-steam-181717?logo=steam&logoColor=66C0F4&style=for-the-badge"></a>
 </div>
