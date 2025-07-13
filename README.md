@@ -1,6 +1,6 @@
-## Arthur Silva Ferreira. &nbsp;<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/be9d76ab-b348-48de-8b82-07b83b4711dd" />
+## Arthur Silva Ferreira. &nbsp;<img width="30" height="30" alt="Image" src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/knight.png" />
 
-## Hello, World!&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/97b1478f-dc9a-4fdb-be7d-7b3e2c2409d4" width=30px />
+## Hello, World!&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/earth.gif" width=30px />
 
 • Brazillian, 19 years-old, learning front-end skills.
 
@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=D5DBE0&rank_icon=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=181717&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3406d38-308b-40d3-902f-b83c2e0509c4" width=40px />
+## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/developer.gif" width=40px />
 
 <div align="center">
     <img src="https://img.shields.io/badge/-html-181717?logo=html5&logoColor=E34F26&style=for-the-badge"/>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-python-181717?logo=python&logoColor=FFE873&style=for-the-badge" />
 </div>
 
-## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/e32abccf-cbbf-4ba9-a13d-ef92594026ed" width=30px />
+## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/pc.gif" width=30px />
 
 <div align="center">
     <a href="https://github.com/zaikkoo" target="_blank"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge"></a>
@@ -35,5 +35,5 @@
 ##
 
 <div align="center">
-    <img width=1000px height=250px src="https://github.com/user-attachments/assets/2f115595-a099-481f-a60b-13ff082cd7ae" />
+    <img width=1000px height=250px src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/dino.gif" />
 </div>
