@@ -1,6 +1,6 @@
 ## Arthur Silva Ferreira. &nbsp;<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/be9d76ab-b348-48de-8b82-07b83b4711dd" />
 
-## <img src="https://github.com/user-attachments/assets/97b1478f-dc9a-4fdb-be7d-7b3e2c2409d4" width=20px /> &nbsp;Hello, World!
+## Hello, World!&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/97b1478f-dc9a-4fdb-be7d-7b3e2c2409d4" width=20px />
 
 • Brazillian, 19 years-old, learning front-end skills.
 
@@ -8,7 +8,7 @@
 
 • I’m currently learning about HMTL and CSS.
 
-## <img src="https://github.com/user-attachments/assets/d3406d38-308b-40d3-902f-b83c2e0509c4" width=30px /> &nbsp;Tech Stack
+## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3406d38-308b-40d3-902f-b83c2e0509c4" width=35px />
 
 <div align="center">
     <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -17,10 +17,16 @@
     <img src="https://img.shields.io/badge/-python-4A4D4F?logo=python&logoColor=white&style=for-the-badge" />
 </div>
 
-## <img src="https://github.com/user-attachments/assets/e32abccf-cbbf-4ba9-a13d-ef92594026ed" width=30px /> &nbsp;How to Find Me
+## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/e32abccf-cbbf-4ba9-a13d-ef92594026ed" width=30px />
 
 <div align="center">
     <a href="https://github.com/zaikkoo" target="_blank">
         <img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge">
+    </a>
+    <a href="mailto:arthursilvaferc@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
+    </a>
+        <a href="https://www.instagram.com/imarthurzk?igsh=MWI1dTFkcGlzZzlucA==" target="_blank">
+        <img src="https://img.shields.io/badge/-instagram-FF0069?logo=instagram&logoColor=white&style=for-the-badge">
     </a>
 </div>
