@@ -1,6 +1,6 @@
 ## Arthur Silva Ferreira. &nbsp;<img width="30" height="30" alt="Image" src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/knight.png" />
 
-## Hello, World!&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/earth.gif" width=30px />
+## Hello, World!&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/earth.gif" width=25px />
 
 • Brazillian, 19 years-old, learning front-end skills.
 
