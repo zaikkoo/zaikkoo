@@ -8,8 +8,8 @@
 
 • I’m currently learning about HMTL, CSS ans JavaScript.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=D5DBE0#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=181717#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=D5DBE0&rank_icon=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=181717&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3406d38-308b-40d3-902f-b83c2e0509c4" width=40px />
 
