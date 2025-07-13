@@ -31,3 +31,9 @@
     <a href="https://youtube.com/@zaikko01?si=VUBp190VeaM-_ML7" target="_blank"><img src="https://img.shields.io/badge/-youtube-181717?logo=youtube&logoColor=C72424&style=for-the-badge"></a>
     <a href="https://steamcommunity.com/id/zaikko44/" target="_blank"><img src="https://img.shields.io/badge/-steam-181717?logo=steam&logoColor=66C0F4&style=for-the-badge"></a>
 </div>
+
+##
+
+<div align="center">
+    <img width=1000px height=250px src="https://github.com/user-attachments/assets/42ccb2d1-e15e-4e9f-bcd3-8a3cbbd3f210" />
+</div>
