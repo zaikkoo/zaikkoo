@@ -6,7 +6,7 @@
 
 • I recently started studying and I intend to become a developer in the future, with a preference for the areas of Front-End and Game Development. I will share my evolution through various repertoires and projects, so thank you for your attention.
 
-• I’m currently learning about HMTL and CSS.
+• I’m currently learning about HMTL, CSS ans JavaScript.
 
 ## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3406d38-308b-40d3-902f-b83c2e0509c4" width=35px />
 
