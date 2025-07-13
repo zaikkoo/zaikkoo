@@ -20,13 +20,8 @@
 ## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/e32abccf-cbbf-4ba9-a13d-ef92594026ed" width=30px />
 
 <div align="center">
-    <a href="https://github.com/zaikkoo" target="_blank">
-        <img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge">
-    </a>
+    <a href="https://github.com/zaikkoo" target="_blank"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge"></a>
     <a href="mailto:arthursilvaferc@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
-    </a>
-        <a href="https://www.instagram.com/imarthurzk?igsh=MWI1dTFkcGlzZzlucA==" target="_blank">
-        <img src="https://img.shields.io/badge/-instagram-FF0069?logo=instagram&logoColor=white&style=for-the-badge">
-    </a>
+<img src="https://img.shields.io/badge/-gmail-C72424?logo=gmail&logoColor=white&style=for-the-badge"></a>
+    <a href="https://www.instagram.com/imarthurzk?igsh=MWI1dTFkcGlzZzlucA==" target="_blank"><img src="https://img.shields.io/badge/-instagram-FF0069?logo=instagram&logoColor=white&style=for-the-badge"></a>
 </div>
