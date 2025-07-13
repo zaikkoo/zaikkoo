@@ -1,6 +1,6 @@
 ## Arthur Silva Ferreira. &nbsp;<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/be9d76ab-b348-48de-8b82-07b83b4711dd" />
 
-## Hello, World!&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/97b1478f-dc9a-4fdb-be7d-7b3e2c2409d4" width=20px />
+## Hello, World!&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/97b1478f-dc9a-4fdb-be7d-7b3e2c2409d4" width=30px />
 
 • Brazillian, 19 years-old, learning front-end skills.
 
@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=D5DBE0#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=181717#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3406d38-308b-40d3-902f-b83c2e0509c4" width=35px />
+## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3406d38-308b-40d3-902f-b83c2e0509c4" width=40px />
 
 <div align="center">
     <img src="https://img.shields.io/badge/-html-181717?logo=html5&logoColor=E34F26&style=for-the-badge"/>
