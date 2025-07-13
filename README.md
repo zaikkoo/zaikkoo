@@ -23,5 +23,8 @@
     <a href="https://github.com/zaikkoo" target="_blank"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge"></a>
     <a href="mailto:arthursilvaferc@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-gmail-C72424?logo=gmail&logoColor=white&style=for-the-badge"></a>
-    <a href="https://www.instagram.com/imarthurzk?igsh=MWI1dTFkcGlzZzlucA==" target="_blank"><img src="https://img.shields.io/badge/-instagram-FF0069?logo=instagram&logoColor=white&style=for-the-badge"></a>
+    <a href="https://www.instagram.com/imarthurzk?igsh=MWI1dTFkcGlzZzlucA==" target="_blank"><img src="https://img.shields.io/badge/-instagram-D9367D?logo=instagram&logoColor=white&style=for-the-badge"></a>
+    <a href="https://x.com/oZaikko_" target="_blank"><img src="https://img.shields.io/badge/-x-000000?logo=x&logoColor=white&style=for-the-badge"></a>
+    <a href="https://youtube.com/@zaikko01?si=VUBp190VeaM-_ML7" target="_blank"><img src="https://img.shields.io/badge/-youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
+    <a href="https://steamcommunity.com/id/zaikko44/" target="_blank"><img src="https://img.shields.io/badge/-steam-2A475E?logo=steam&logoColor=white&style=for-the-badge"></a>
 </div>
