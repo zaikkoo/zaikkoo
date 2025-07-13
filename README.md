@@ -14,9 +14,9 @@
 ## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d3406d38-308b-40d3-902f-b83c2e0509c4" width=35px />
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-html-181717?logo=html5&logoColor=E34F26&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-css-181717?logo=css&logoColor=1572B5&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img media="(prefers-color-scheme: light)" src="https://img.shields.io/badge/-html-FFFFFF?logo=html5&logoColor=E34F26&style=for-the-badge" media="(prefers-color-scheme: dark)" src="https://img.shields.io/badge/-html-181717?logo=html5&logoColor=E34F26&style=for-the-badge"/>
+    <img media="(prefers-color-scheme: light)" src="https://img.shields.io/badge/-css-FFFFFF?logo=css&logoColor=1572B5&style=for-the-badge" media="(prefers-colof-scheme: dark)" src="https://img.shields.io/badge/-css-181717?logo=css&logoColor=1572B5&style=for-the-badge" />
+    <img media="(prefers-color-scheme: light)" src="https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/-python-181717?logo=python&logoColor=FFE873&style=for-the-badge" />
 </div>
 
