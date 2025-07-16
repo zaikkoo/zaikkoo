@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/-css-181717?logo=css&logoColor=1572B5&style=for-the-badge" />
     <img src="https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/-python-181717?logo=python&logoColor=FFE873&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-c++-181717?logo=cplusplus&logoColor=00599C&style=for-the-badge" />
 </div>
 
 ## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/computer.gif" width=30px />
