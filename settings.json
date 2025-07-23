@@ -1,0 +1,15 @@
+{
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.6,
+  "editor.rulers": [120],
+  "editor.fontLigatures": true,
+  "glassit.alpha": 230,
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.sideBar.location": "right",
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 120,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "DuoTone Dark Sea"
+}
