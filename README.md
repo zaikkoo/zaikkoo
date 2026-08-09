@@ -2,7 +2,7 @@
 
 ## Hello, World!&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/earth.gif" width=25px />
 
-• Brazillian, 19 years-old, learning front-end skills.
+• Brazillian, 20 years-old, learning front-end skills.
 
 • I recently started studying and I intend to become a developer in the future, with a preference for the areas of Front-End and Game Development. I will share my evolution through various repertoires and projects, so thank you for your attention.
 
