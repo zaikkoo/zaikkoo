@@ -6,10 +6,7 @@
 
 • I recently started studying and I intend to become a developer in the future, with a preference for the areas of Front-End and Game Development. I will share my evolution through various repertoires and projects, so thank you for your attention.
 
-• I’m currently learning about HMTL, CSS ans JavaScript.
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=D5DBE0&rank_icon=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zaikkoo&show_icons=true&theme=transparent&hide_border=true&title_color=1572B5&icon_color=1572B5&text_color=181717&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+• I’m currently learning about HMTL, CSS and JavaScript.
 
 ## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/developer.gif" width=40px />
 
