@@ -1,4 +1,4 @@
-## Arthur Silva Ferreira. &nbsp;<img width="30" height="30" alt="Image" src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/void-knight.png" />
+## Arthur Silva Ferreira.
 
 ## Hello, World!&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/earth.gif" width=25px />
 
