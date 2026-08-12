@@ -2,11 +2,11 @@
 
 ## Hello, World!&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/earth.gif" width=25px />
 
-• Brazillian, 20 years-old, learning front-end skills.
+• Brazillian, 20 years-old.
 
-• I recently started studying and I intend to become a developer in the future, with a preference for the areas of Front-End and Game Development. I will share my evolution through various repertoires and projects, so thank you for your attention.
+• I recently started studying and I intend to become a developer in the future. I will share my evolution through various repertoires and projects, so thank you for your attention.
 
-• I’m currently learning about HMTL, CSS and JavaScript.
+• I'm currently learning about HTML, CSS, JavaScript, and Arch Linux (window managers, dotfiles management and shell scripting).
 
 ## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/developer.gif" width=40px />
 
@@ -17,6 +17,16 @@
     <img src="https://img.shields.io/badge/-python-181717?logo=python&logoColor=FFE873&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-c/c++-181717?logo=cplusplus&logoColor=00599C&style=for-the-badge" />
 </div>
+
+## Projects.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/computer.gif" width=30px />
+
+**Setup & dotfiles:**
+
+- [singularity](https://github.com/zaikkoo/singularity) - My personal Hyprland rice for Arch Linux, Hollow Knight-themed, with an automated install/uninstall script (symlink-based, with backup).
+
+**Study repositories:**
+
+- [python](https://github.com/zaikkoo/python) - A Python repository destinated to archive my study.
 
 ## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/computer.gif" width=30px />
 
