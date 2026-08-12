@@ -28,10 +28,9 @@
 
 - [python](https://github.com/zaikkoo/python) - A Python repository destinated to archive my study.
 
-## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/computer.gif" width=30px />
+## How to Find Me.
 
 <div align="center">
-    <a href="https://github.com/zaikkoo" target="_blank"><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge"></a>
     <a href="mailto:arthursilvaferc@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-gmail-181717?logo=gmail&logoColor=DE4D40&style=for-the-badge"></a>
     <a href="https://www.instagram.com/imarthurzk?igsh=MWI1dTFkcGlzZzlucA==" target="_blank"><img src="https://img.shields.io/badge/-instagram-181717?logo=instagram&logoColor=DD2A7B&style=for-the-badge"></a>
