@@ -4,20 +4,17 @@
 
 • Brazillian, 20 years-old.
 
-• I recently started studying and I intend to become a developer in the future. I will share my evolution through various repertoires and projects, so thank you for your attention.
+• I started studying with the intention of becoming a developer in the future. I will share my evolution through various repositories and projects, so thank you for your attention.
 
-• I'm currently learning about HTML, CSS, JavaScript, and Arch Linux (window managers, dotfiles management and shell scripting).
+• I'm open to feedback, tips, and suggestions from anyone who's already walked this path — any help is welcome.
 
-## Tech Stack.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/developer.gif" width=40px />
+## My Skills and Tools.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/developer.gif" width=40px />
 
-<div align="center">
-    <img src="https://img.shields.io/badge/-html-181717?logo=html5&logoColor=E34F26&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-css-181717?logo=css&logoColor=1572B5&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/-python-181717?logo=python&logoColor=FFE873&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-c/c++-181717?logo=cplusplus&logoColor=00599C&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/linux-181717?style=for-the-badge&logo=linux&logoColor=white" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,vscode,git,github,neovim,arch,linux&perline=6" />
+  </a>
+</p>
 
 ## Projects.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/computer.gif" width=30px />
 
@@ -29,16 +26,13 @@
 
 - [python](https://github.com/zaikkoo/python) - A Python repository destinated to archive my study.
 
-## How to Find Me.
+## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/magnifier.gif" width=35px />
 
-<div align="center">
-    <a href="mailto:arthursilvaferc@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-gmail-181717?logo=gmail&logoColor=DE4D40&style=for-the-badge"></a>
-    <a href="https://www.instagram.com/imarthurzk?igsh=MWI1dTFkcGlzZzlucA==" target="_blank"><img src="https://img.shields.io/badge/-instagram-181717?logo=instagram&logoColor=DD2A7B&style=for-the-badge"></a>
-    <a href="https://x.com/oZaikko_" target="_blank"><img src="https://img.shields.io/badge/-x-181717?logo=x&logoColor=white&style=for-the-badge"></a>
-    <a href="https://youtube.com/@zaikko01?si=VUBp190VeaM-_ML7" target="_blank"><img src="https://img.shields.io/badge/-youtube-181717?logo=youtube&logoColor=C72424&style=for-the-badge"></a>
-    <a href="https://steamcommunity.com/id/zaikko44/" target="_blank"><img src="https://img.shields.io/badge/-steam-181717?logo=steam&logoColor=66C0F4&style=for-the-badge"></a>
-</div>
+<p align="center">
+  <a href="mailto:arthursilvaferc@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://instagram.com/imarthurzk" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://x.com/oZaikko_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
 
 ##
 
