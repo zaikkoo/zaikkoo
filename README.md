@@ -24,6 +24,8 @@
 
 **Study repositories:**
 
+- [html & css](https://github.com/zaikkoo/html-css) - A HTML and CSS repository destinated to archive my study.
+- [javascript](https://github.com/zaikkoo/python) - A JavaScript repository destinated to archive my study.
 - [python](https://github.com/zaikkoo/python) - A Python repository destinated to archive my study.
 
 ## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/magnifier.gif" width=35px />
