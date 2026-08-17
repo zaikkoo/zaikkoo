@@ -4,7 +4,7 @@
 
 • Brazillian, 20 years-old.
 
-• I started studying with the intention of becoming a developer in the future. I will share my evolution through various repositories and projects, so thank you for your attention.
+• I started studying with the goal of becoming a developer in the future. I'll be sharing my progress through various repositories and projects — thanks for stopping by!
 
 • I'm open to feedback, tips, and suggestions from anyone who's already walked this path — any help is welcome.
 
@@ -24,9 +24,9 @@
 
 **Study repositories:**
 
-- [html & css](https://github.com/zaikkoo/html-css) - A HTML and CSS repository destinated to archive my study.
-- [javascript](https://github.com/zaikkoo/python) - A JavaScript repository destinated to archive my study.
-- [python](https://github.com/zaikkoo/python) - A Python repository destinated to archive my study.
+- [html & css](https://github.com/zaikkoo/html-css) - Where I practice and archive my HTML/CSS studies.
+- [javascript](https://github.com/zaikkoo/python) - Where I practice and archive my JavaScript studies.
+- [python](https://github.com/zaikkoo/python) - Where I practice and archive my Python studies.
 
 ## How to Find Me.&nbsp;&nbsp;<img src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/magnifier.gif" width=35px />
 
@@ -41,3 +41,9 @@
 <div align="center">
     <img width=1000px height=250px src="https://github.com/zaikkoo/zaikkoo/blob/main/assets/dino.gif" />
 </div>
+
+##
+
+<p align="center">
+  That's all for now — thanks for stopping by, and see you in the next commit!
+</p>
