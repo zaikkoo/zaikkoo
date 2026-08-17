@@ -4,7 +4,7 @@
 
 • Brazillian, 20 years-old.
 
-• I started studying with the goal of becoming a developer in the future. I'll be sharing my progress through various repositories and projects — thanks for stopping by!
+• I started studying with the goal of becoming a developer in the future. I'll be sharing my progress through various repositories and projects.
 
 • I'm open to feedback, tips, and suggestions from anyone who's already walked this path — any help is welcome.
 
